@@ -1,2 +1,0 @@
-# Curriculo
-Curriculo de victor
